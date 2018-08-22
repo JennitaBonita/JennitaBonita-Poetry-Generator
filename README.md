@@ -10,5 +10,5 @@ A ToDo List for this session:
 
 * Then we will commit this to our GitHub Repository
 * ...
-> I’ve always been more interested
-> in the future than in the past.
+> _ I’ve always been more interested
+> in the future than in the past. _

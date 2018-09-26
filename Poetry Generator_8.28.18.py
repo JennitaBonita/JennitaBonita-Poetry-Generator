@@ -16,11 +16,11 @@ nouns = ["dog", "cat", "mouse", "house", "woman", "shoe", "spider", "moon",
 
 # list of verbs
 verbs = ["swallow", "stomp", "smash", "scream", "jump", "throw",
-         "hit", "run", "screech", "catch", "kick"]
+         "hit", "run", "screech", "catch", "kick", "dies"]
 
 # list of adjectives
 adjectives = ["giant", "sneaky", "stealthy", "ugly", "fat", "gross",
-              "raucous", "hungry", "arrogant"]
+              "raucous", "hungry", "arrogant", "stupid"]
 
 noun = random.choice(nouns)
 

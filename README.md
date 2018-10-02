@@ -1,14 +1,6 @@
-# Poetry Repository
-Poetry Generator
-**This is my first markdown readme! And my first poetry script!**
+**Artist Statement** 
 
----
+_Jennie Garcia_
 
-A ToDo List for this session:
-
-* First let's write a **README**
-
-* Then we will commit this to our GitHub Repository
-* ...
-> I’ve always been more interested
-> in the future than in the past.
+> "_La vida te da sorpresas,_" has been my mantra in life.   
+_Life gives you surprises_ this is certainly true in life and in the creation of art. Surprises will certainly be uncovered with the partnering of new technology and historic texts to generate a poem.

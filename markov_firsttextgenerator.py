@@ -22,8 +22,19 @@ synthesized_model = markovify.combine([author_model, second_model], [1,1])
 #
 # print five randomly-generated sentences
 for i in range(3):
-    print synthesized_model.make_sentence()
+    poem = synthesized_model.make_sentence()
 
 
     
-    
+    # import libraries
+from playsound import playsound
+from gtts import gTTS
+
+# text to speech
+tts = gTTS(text=poem, lang='en')
+
+# write audio file
+tts.save("poem.mp3")
+
+# play audio file
+playsound("poem.mp3")

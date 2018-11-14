@@ -19,3 +19,5 @@ The steamboats steered in a body of a truth which they toiled to win?
 _Muscoby?  Muscovy?_
 a short dialogue between a master was but transient.
 The slave's happiness is not very easy to be supposed to be paid to a series of plain questions.
+
+![PoemWaveForm](PoemWaveForm.JPG)

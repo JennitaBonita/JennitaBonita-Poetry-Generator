@@ -20,4 +20,6 @@ _Muscoby?  Muscovy?_
 a short dialogue between a master was but transient.
 The slave's happiness is not very easy to be supposed to be paid to a series of plain questions.
 
+_Poetry Wave Form_
+
 ![PoemWaveForm](PoemWaveForm.JPG)
